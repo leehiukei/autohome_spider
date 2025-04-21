@@ -8,5 +8,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 ```
+除此之外，本爬虫调用了chrome webdriver用于爬虫工作
 # 获取的数据
 运用本爬虫，可获得以下数据：相关车型论坛中的评论数据，相关车型的口碑数据，相关车型的各单项评分。
